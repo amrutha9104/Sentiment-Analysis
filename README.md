@@ -27,25 +27,25 @@ Jupyter Notebook (for interactive development and visualization)
 ## 📁 Project Structure
 sentiment-analysis-naive-bayes/
 │
-├── data/                 # Contains the dataset(s)
-├── notebooks/            # Jupyter notebooks for EDA, modeling, etc.
-├── src/                  # Python scripts for preprocessing, training, etc.
-├── models/               # Saved model files
-├── README.md             # Project overview
-└── requirements.txt      # Dependencies
+├── data/                 # Contains the dataset(s)  \
+├── notebooks/            # Jupyter notebooks for EDA, modeling, etc.  \
+├── src/                  # Python scripts for preprocessing, training, etc. \
+├── models/               # Saved model files \
+├── README.md             # Project overview \
+└── requirements.txt      # Dependencies \
 ## 🚀 How to Run
-Clone the repository:
+### Clone the repository:
 
 git clone https://github.com/your-username/sentiment-analysis-naive-bayes.git
 cd sentiment-analysis-naive-bayes
 
-## Create a virtual environment and install dependencies:
+### Create a virtual environment and install dependencies:
 
 python -m venv venv
 source venv/bin/activate   # On Windows: venv\Scripts\activate
 pip install -r requirements.txt
 
-## Run the Jupyter notebook or execute the script to train the model:
+### Run the Jupyter notebook or execute the script to train the model:
 jupyter notebook notebooks/sentiment_analysis_naive_bayes.ipynb
 
 ## ✅ Results
