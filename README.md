@@ -20,19 +20,8 @@ Pandas
 
 NumPy
 
-NLTK / spaCy (for text preprocessing)
-
 Jupyter Notebook (for interactive development and visualization)
 
-## 📁 Project Structure
-sentiment-analysis-naive-bayes/
-│
-├── data/                 # Contains the dataset(s)  \
-├── notebooks/            # Jupyter notebooks for EDA, modeling, etc.  \
-├── src/                  # Python scripts for preprocessing, training, etc. \
-├── models/               # Saved model files \
-├── README.md             # Project overview \
-└── requirements.txt      # Dependencies \
 ## 🚀 How to Run
 ### Clone the repository:
 
